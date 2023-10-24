@@ -1,0 +1,3 @@
+-improved UI designs
+-fixed minor display errors
+-added lable for slider bars

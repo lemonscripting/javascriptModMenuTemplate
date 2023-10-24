@@ -53,14 +53,14 @@ function toggleModMenu() {
 
 // Feature data array
 const featureData = [
-  { count: '1', name: 'Aim' },
-  { count: '2', name: 'Speed' },
-  { count: '3', name: 'Health' },
-  { count: '4', name: 'Damage' },
-  { count: '5', name: 'Stealth' },
-  { count: '6', name: 'Accuracy' },
-  { count: '7', name: 'Visibility' },
-  { count: '8', name: 'Inventory' },
+  { count: '1', name: 'Function 1' },
+  { count: '2', name: 'Function 2' },
+  { count: '3', name: 'Function 3' },
+  { count: '4', name: 'Function 4' },
+  { count: '5', name: 'Function 5' },
+  { count: '6', name: 'Function 6' },
+  { count: '7', name: 'Function 7' },
+  { count: '8', name: 'Function 8' },
 ];
 
 // Create mod menu buttons using featureData
