@@ -3,3 +3,4 @@
 -secured code 
 -added production level code (production.user.js)
 -added minified version of current version
+-added bookmarklet version
