@@ -23,7 +23,7 @@ header.style.textAlign = 'center';
 header.style.cursor = 'pointer';
 header.style.padding = '10px';
 header.style.fontWeight = 'bold';
-header.innerText = 'Mod Menu';
+header.innerText = '@lemonscripting';
 header.style.borderTopLeftRadius = '10px';
 header.style.borderTopRightRadius = '10px';
 
