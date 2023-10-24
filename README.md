@@ -37,12 +37,12 @@ By using this script, you agree to **take full responsibility** for your actions
 - added label for slider bars🏷️
   
 # V1.2
-- added hash verification 🔒
-- added JSON control 🛡️
-- added production-level code (production.user.js) 🚀
-- added minified version of the current version 🧩
-- added bookmarklet version 📚
-- secured code 🔐
+- added hash verification🔒
+- added JSON control🛡️
+- added production-level code (production.user.js)🚀
+- added minified version of the current version🧩
+- added bookmarklet version📚
+- secured code🔐
 
 ## License
 ```
