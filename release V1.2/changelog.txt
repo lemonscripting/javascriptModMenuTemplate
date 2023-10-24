@@ -1,0 +1,5 @@
+-added hash verification
+-added json control
+-secured code 
+-added production level code (production.user.js)
+-added minified version of current version
