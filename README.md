@@ -1,4 +1,4 @@
-# javascriptModMenuFrame🚀
+# javascriptModMenuTemplate🚀
 
 ## Requirements
 To run this script, ensure you have either of the following:
