@@ -44,6 +44,9 @@ By using this script, you agree to **take full responsibility** for your actions
 - added bookmarklet version📚
 - secured code🔐
 
+# V1.3
+- fixed bug function not triggered when button clicked🔧
+
 ## License
 ```
 BSD 3-Clause License

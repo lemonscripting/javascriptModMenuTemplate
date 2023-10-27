@@ -1,0 +1,1 @@
+-fixed bug function not triggered when button clicked
